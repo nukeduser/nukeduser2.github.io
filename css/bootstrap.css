@@ -1,17 +1,31 @@
 
+html {
+  font-family: sans-serif;
+  line-height: 1.15;
+  -webkit-text-size-adjust: 100%;
+}
+
+article, aside, figcaption, figure, footer, header, hgroup, main, nav, section {
+  display: block;
+}
+
 body {
-  background-image: url(https://i.imgur.com/xwJzTzI.jpg);
+  margin: 0;
+  text-align: left;
+  line-height: 1.5;
+  background-image: url(https://i.imgur.com/xwJzTzI.jpg); 
   background-repeat: no-repeat;
   background-position: left center;
   background-attachment: fixed;
   background-size: cover;
+
 }
 
 p,h1 {
   font-family: Abril+Fatface;
   text-decoration-color: white;
   font-size: 26px;
-  position: fixed;
+  width: 60%;
   top: 160px;
   left: 16px;
 }
@@ -35,12 +49,12 @@ li a {
 }
 
   .fa {
-  padding: 20px;
-  font-size: 30px;
-  width: 50px;
-  text-align: center;
-  text-decoration: none;
-  margin: 5px 2px;
+  padding: 20px !important;
+  font-size: 30px !important;
+  width: 50px !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  margin: 5px 2px !important;
 }
 
 .fa:hover {
@@ -67,5 +81,3 @@ li a {
 
 .fa-instagram {
   color: white;
-}
-
