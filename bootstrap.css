@@ -1,0 +1,84 @@
+
+body {
+  background-image: url(https://i.imgur.com/xwJzTzI.jpg);
+  background-repeat: no-repeat;
+  background-position: right center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+p,h1 {
+  font-family: 'Abril+fatface';
+  text-decoration-color: white;
+  font-weight: bolder;
+  font-size: 32px;
+  position: fixed;
+  top: 200px;
+  left: 16px;
+}
+
+h1 {
+  position: fixed;
+  top: 20px;
+  left: 16px;
+
+}
+
+li {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+
+.fa {
+  padding: 5px;
+  font-size: 5px;
+  width: 100px;
+  text-align: center;
+  text-decoration: none;
+  margin: 5px 1px;
+}
+
+.fa-facebook, .fa-twitter, .fa-youtube, .fa-intagram, .fa-linkedin {
+  position: center bottom;
+}
+
+.fa:hover {
+  color: rgba(10,186, 181,1);
+
+}
+
+.fa-facebook {
+  background: #f6d258;
+  color: white;
+
+}
+
+.fa-twitter {
+  background: #f6d258;
+  color: white;
+}
+
+
+.fa-linkedin {
+  background: #f6d258;
+  color: white;
+}
+
+.fa-youtube {
+  background: #f6d258;
+  color: white;
+}
+
+.fa-instagram {
+  background: #f6d258;
+  color: white;
+}
+
