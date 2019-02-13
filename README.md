@@ -4,6 +4,8 @@
 permalink: /index.html
 ---
 
+permalink: /resume.html
+---
 ---
 permalink: /digital.html
 ---
